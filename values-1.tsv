@@ -1,4 +1,4 @@
-Node	search_value	minimax_value	maximin_value
+state	search_value	minimax_value	maximin_value
 A	20	1	0
 B	20	1	9
 C	1	1	0
